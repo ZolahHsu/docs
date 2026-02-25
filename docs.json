@@ -34,9 +34,9 @@
                 ]
               },
               {
-                "group": "編輯與物件",
+                "group": "物件與編輯",
                 "pages": [
-                  "essentials/markdown",
+                  "縮放調整",
                   "essentials/code",
                   "essentials/images",
                   "essentials/reusable-snippets"

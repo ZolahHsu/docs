@@ -13,52 +13,45 @@
       {
         "tab": "Guides",
         "groups": [
-         {
-  "group": "IllustKit",
-  "pages": [
-    {
-      "group": "Getting started",
-      "expanded": true,
-      "pages": [
-        "開始使用 Illustkit",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Customization",
-      "expanded": false,
-      "pages": [
-        "essentials/settings",
-        "essentials/navigation"
-      ]
-    },
-    {
-      "group": "Tools",
-      "expanded": false,
-      "pages": [
-        "tools/brush-width",
-        "tools/anchor-offset"
-      ]
-    },
-    {
-      "group": "FAQ",
-      "expanded": false,
-      "pages": [
-        "faq/general",
-        "faq/license"
-      ]
-    },
-    {
-      "group": "Version history",
-      "expanded": false,
-      "pages": [
-        "version/1-0-0",
-        "version/1-1-0"
-      ]
-    }
-  ]
-}
+          {
+            "group": "IllustKit",
+            "pages": [
+              {
+                "group": "Getting started",
+                "expanded": false,
+                "pages": [
+                  "開始使用 Illustkit",
+                  "quickstart",
+                  "development"
+                ]
+              },
+              {
+                "group": "Customization",
+                "expanded": false,
+                "pages": [
+                  "essentials/settings",
+                  "essentials/navigation"
+                ]
+              },
+              {
+                "group": "Writing content",
+                "pages": [
+                  "essentials/markdown",
+                  "essentials/code",
+                  "essentials/images",
+                  "essentials/reusable-snippets"
+                ]
+              },
+              {
+                "group": "AI tools",
+                "pages": [
+                  "ai-tools/cursor",
+                  "ai-tools/claude-code",
+                  "ai-tools/windsurf"
+                ]
+              }
+            ]
+          }
         ]
       },
       {

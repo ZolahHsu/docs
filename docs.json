@@ -2,10 +2,6 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "IllustKit 技術文件",
-  "logo": {
-  "light": "",
-  "dark": ""
-},
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",

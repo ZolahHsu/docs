@@ -24,7 +24,7 @@
                 "quickstart",
                 "development"
               ]
-          },
+          }
           {
             "group": "Customization",
             "pages": [

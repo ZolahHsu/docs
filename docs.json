@@ -26,7 +26,7 @@
                 ]
               },
               {
-                "group": "Customization",
+                "group": "工具操作",
                 "expanded": false,
                 "pages": [
                   "essentials/settings",
@@ -34,7 +34,7 @@
                 ]
               },
               {
-                "group": "Writing content",
+                "group": "編輯與物件",
                 "pages": [
                   "essentials/markdown",
                   "essentials/code",
@@ -43,7 +43,7 @@
                 ]
               },
               {
-                "group": "AI tools",
+                "group": "色彩與漸層",
                 "pages": [
                   "ai-tools/cursor",
                   "ai-tools/claude-code",

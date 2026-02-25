@@ -8,16 +8,13 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-"navigation": {
-  "tabs": [
-    {
-      "tab": "Guides",
-      "groups": [
-        {
-          "group": "IllustKit",
-          "pages": [
-            {
-              "group": "Getting started",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Getting started",
               "expanded": false,
               "pages": [
                 "開始使用 Illustkit",

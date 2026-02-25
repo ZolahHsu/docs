@@ -8,11 +8,11 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
+  "navigation": [
     {
-  "group": "關於我們",
-  "pages": ["illustkit"]
-    },
+      "group": "關於我們",
+      "pages": ["illustkit"]
+    }
     "tabs": [
       {
         "tab": "Guides",

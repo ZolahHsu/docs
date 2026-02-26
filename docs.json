@@ -62,7 +62,8 @@
                       "object/path/平滑封閉",
                       "object/path/直線封閉",
                       "object/path/錨點分割",
-                      "object/path/增強接合"
+                      "object/path/增強接合",
+                      "object/path/預置把手"
                     ]
                   },
                   "essentials/images",

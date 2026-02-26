@@ -55,7 +55,13 @@
                       "object/align/垂直居中邊框中心"
                     ]
                   },
-                  "essentials/code",
+                  {
+                    "group": "路徑與錨點處理",
+                    "expanded": false,
+                    "pages": [
+                      "object/path/水平居中邊框中心"
+                    ]
+                  },
                   "essentials/images",
                   "essentials/reusable-snippets"
                 ]

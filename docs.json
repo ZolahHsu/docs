@@ -3,8 +3,8 @@
   "theme": "mint",
   "name": "IllustKit 技術文件",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
+    "primary": "#61bff2",
+    "light": "#61bff2",
     "dark": "#61bff2"
   },
   "favicon": "/favicon.svg",

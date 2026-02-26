@@ -42,7 +42,9 @@
                     "expanded": false,
                     "pages": [
                       "object/scale/等寬縮放",
-                      "object/scale/等高縮放"
+                      "object/scale/等高縮放",
+                      "object/scale/依像素尺寸個別縮放",
+                      "object/scale/依短邊尺寸個別縮放"
                     ]
                   },
                   {

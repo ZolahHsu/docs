@@ -36,11 +36,17 @@
               {
                 "group": "物件與編輯",
                 "pages": [
-                  "縮放調整",
+                {
+                 "group": "縮放調整",
+                 "expanded": true,
+                "pages": [
+                  "等寬縮放"
+               ]
+             },
                   "essentials/code",
                   "essentials/images",
                   "essentials/reusable-snippets"
-                ]
+               ]
               },
               {
                 "group": "色彩與漸層",

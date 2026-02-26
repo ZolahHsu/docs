@@ -40,7 +40,8 @@
                  "group": "縮放調整",
                  "expanded": true,
                 "pages": [
-                  "等寬縮放"
+                  "等寬縮放",
+                  "等高縮放"
                ]
              },
                   "essentials/code",

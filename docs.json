@@ -46,7 +46,7 @@
                   },
                   {
                     "group": "對齊",
-                    "expanded": true,
+                    "expanded": false,
                     "pages": [
                       "object/align/水平居中邊框中心",
                       "object/scale/等高縮放"

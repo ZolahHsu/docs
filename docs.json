@@ -35,10 +35,11 @@
               },
               {
                 "group": "物件與編輯",
+                "expanded": false,
                 "pages": [
                   {
                     "group": "縮放調整",
-                    "expanded": true,
+                    "expanded": false,
                     "pages": [
                       "object/scale/等寬縮放",
                       "object/scale/等高縮放"
@@ -59,6 +60,7 @@
               },
               {
                 "group": "色彩與漸層",
+                "expanded": false,
                 "pages": [
                   "ai-tools/cursor",
                   "ai-tools/claude-code",

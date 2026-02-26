@@ -44,6 +44,14 @@
                       "object/scale/等高縮放"
                     ]
                   },
+                  {
+                    "group": "對其",
+                    "expanded": true,
+                    "pages": [
+                      "object/align/水平居中邊框中心",
+                      "object/scale/等高縮放"
+                    ]
+                  },
                   "essentials/code",
                   "essentials/images",
                   "essentials/reusable-snippets"

@@ -82,9 +82,12 @@
                     "expanded": false,
                     "pages": [
                       "object/artboard/從選取的物件邊框新增",
-                      "object/envelope/從選取的物件邊框個別新增"
+                      "object/artboard/從選取的物件邊框個別新增"
                     ]
                   },
+                  "essentials/reusable-snippets"
+                ]
+              },
               {
                 "group": "色彩與漸層",
                 "expanded": false,

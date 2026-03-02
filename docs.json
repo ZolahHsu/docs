@@ -98,7 +98,8 @@
                     "expanded": false,
                     "pages": [
                       "object/select/路徑文字物件",
-                      "object/tracing/多圖描圖並展開"
+                      "object/select/舊版文字物件",
+                      "object/select/使選取範圍符合視窗"
                     ]
                   }
                 ]

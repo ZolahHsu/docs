@@ -77,6 +77,14 @@
                       "object/envelope/重複製作封套"
                     ]
                   },
+                  {
+                    "group": "工作區域",
+                    "expanded": false,
+                    "pages": [
+                      "object/artboard/從選取的物件邊框新增",
+                      "object/envelope/從工作區域製作"
+                    ]
+                  },
                   "essentials/reusable-snippets"
                 ]
               },

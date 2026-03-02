@@ -92,6 +92,14 @@
                       "object/tracing/多圖描圖",
                       "object/tracing/多圖描圖並展開"
                     ]
+                  },
+                  {
+                    "group": "選取",
+                    "expanded": false,
+                    "pages": [
+                      "object/select/路徑文字物件",
+                      "object/tracing/多圖描圖並展開"
+                    ]
                   }
                 ]
               },

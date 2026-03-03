@@ -112,7 +112,33 @@
                   "gradient/color/淺色歸零",
                   "gradient/color/倍數近似"
                 ]
-              }
+              },
+              {
+                "group": "版本更新與管理",
+                "expanded": false,
+                "pages": [
+                  "gradient/color/色彩映射",
+                  "gradient/color/淺色歸零",
+                  "gradient/color/倍數近似"
+                ]
+              },
+              {
+                "group": "常見問題與說明",
+                "expanded": false,
+                "pages": [
+                  "gradient/color/色彩映射",
+                  "gradient/color/淺色歸零"
+                ]
+              },
+              {
+                "group": "授權與管理",
+                "expanded": false,
+                "pages": [
+                  "gradient/color/色彩映射",
+                  "gradient/color/淺色歸零",
+                  "gradient/color/倍數近似"
+                ]
+              } 
             ]
           }
         ]

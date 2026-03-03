@@ -110,7 +110,7 @@
                 "pages": [
                   "gradient/color/色彩映射",
                   "gradient/color/淺色歸零",
-                  "ai-tools/windsurf"
+                  "gradient/color/倍數近似"
                 ]
               }
             ]

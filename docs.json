@@ -108,9 +108,31 @@
                 "group": "色彩與漸層",
                 "expanded": false,
                 "pages": [
-                  "gradient/color/色彩映射",
-                  "gradient/color/淺色歸零",
-                  "gradient/color/倍數近似"
+                  {
+                    "group": "色彩調整",
+                    "expanded": false,
+                    "pages": [
+                      "gradient/color/色彩映射",
+                      "gradient/color/淺色歸零",
+                      "gradient/color/倍數近似"
+                    ]
+                  },
+                  {
+                    "group": "漸層色調",
+                    "expanded": false,
+                    "pages": [
+                      "gradient/color/色彩映射",
+                      "gradient/color/淺色歸零"
+                    ]
+                  },
+                  {
+                  "group": "漸層效果",
+                    "expanded": false,
+                    "pages": [
+                      "gradient/color/色彩映射",
+                      "gradient/color/淺色歸零"
+                    ]
+                  },
                 ]
               },
               {

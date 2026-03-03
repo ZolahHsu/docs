@@ -108,7 +108,7 @@
                 "group": "色彩與漸層",
                 "expanded": false,
                 "pages": [
-                  "ai-tools/cursor",
+                  "gradient/color/色彩映射",
                   "ai-tools/claude-code",
                   "ai-tools/windsurf"
                 ]

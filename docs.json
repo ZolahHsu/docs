@@ -144,9 +144,9 @@
                 "group": "版本更新與管理",
                 "expanded": false,
                 "pages": [
-                  "gradient/color/色彩映射",
-                  "gradient/color/淺色歸零",
-                  "gradient/color/倍數近似"
+                  "update/文件版本",
+                  "update/版本更新紀錄",
+                  "update/相容性與已知問題"
                 ]
               },
               {

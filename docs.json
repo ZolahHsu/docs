@@ -130,7 +130,12 @@
                     "expanded": false,
                     "pages": [
                       "gradient/effect/漸層使用方式說明",
-                      "gradient/color/淺色歸零"
+                      "gradient/effect/反射漸層",
+                      "gradient/effect/重複漸層",
+                      "gradient/effect/均分色標",
+                      "gradient/effect/條紋漸層",
+                      "gradient/effect/角度漸層",
+                      "gradient/effect/多邊形漸層"
                     ]
                   }
                 ]

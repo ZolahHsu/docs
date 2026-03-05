@@ -161,7 +161,7 @@
                 "group": "授權與管理",
                 "expanded": false,
                 "pages": [
-                  "gradient/color/色彩映射",
+                  "license/授權方案說明",
                   "gradient/color/淺色歸零",
                   "gradient/color/倍數近似"
                 ]

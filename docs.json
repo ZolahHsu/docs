@@ -17,12 +17,26 @@
             "group": "IllustKit",
             "pages": [
               {
-                "group": "開始使用 Illustkit",
+                "group": "開始使用 IllustKit",
                 "expanded": false,
                 "pages": [
-                  "IllustKit 介紹",
-                  "quickstart",
-                  "development"
+                  {
+                    "group": "色彩調整",
+                    "expanded": false,
+                    "pages": [
+                      "gradient/color/色彩映射",
+                      "gradient/color/淺色歸零",
+                      "gradient/color/倍數近似"
+                    ]
+                  },
+                  {
+                    "group": "安裝與啟用",
+                    "expanded": false,
+                    "pages": [
+                      "start/install/在 Windows 上安裝",
+                      "gradient/tone/漸層過渡方式說明：感應式、感知色調、線性色調"
+                    ]
+                  }
                 ]
               },
               {

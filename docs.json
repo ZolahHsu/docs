@@ -21,12 +21,11 @@
                 "expanded": false,
                 "pages": [
                   {
-                    "group": "色彩調整",
+                    "group": "產品介紹",
                     "expanded": false,
                     "pages": [
-                      "gradient/color/色彩映射",
-                      "gradient/color/淺色歸零",
-                      "gradient/color/倍數近似"
+                      "start/introduce/外掛總覽",
+                      "gradient/color/淺色歸零"
                     ]
                   },
                   {

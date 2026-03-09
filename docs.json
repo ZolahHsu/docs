@@ -41,10 +41,34 @@
               },
               {
                 "group": "工具操作",
-                "expanded": false,
+               "expanded": false,
                 "pages": [
-                  "essentials/settings",
-                  "essentials/navigation"
+                  {
+                    "group": "繪製工具",
+                    "expanded": false,
+                    "pages": [
+                      "start/introduce/外掛總覽",
+                      "gradient/color/淺色歸零"
+                    ]
+                  },
+                  {
+                    "group": "變形與調整工具",
+                    "expanded": false,
+                    "pages": [
+                      "start/install/在 Windows 上安裝",
+                      "start/install/在 macOS 上安裝",
+                      "start/install/安裝與啟動常見問題"
+                    ]
+                  },
+                  {
+                    "group": "選取與取樣工具",
+                    "expanded": false,
+                    "pages": [
+                      "start/install/在 Windows 上安裝",
+                      "start/install/在 macOS 上安裝",
+                      "start/install/安裝與啟動常見問題"
+                    ]
+                  }
                 ]
               },
               {

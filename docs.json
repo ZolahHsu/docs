@@ -47,7 +47,7 @@
                     "group": "繪製工具",
                     "expanded": false,
                     "pages": [
-                      "start/introduce/外掛總覽",
+                      "tools/drawing/增強鉛筆工具",
                       "gradient/color/淺色歸零"
                     ]
                   },

@@ -64,9 +64,8 @@
                     "group": "選取與取樣工具",
                     "expanded": false,
                     "pages": [
-                      "start/install/在 Windows 上安裝",
-                      "start/install/在 macOS 上安裝",
-                      "start/install/安裝與啟動常見問題"
+                      "tools/picker/點選取工具",
+                      "tools/picker/屬性滴管工具"
                     ]
                   }
                 ]

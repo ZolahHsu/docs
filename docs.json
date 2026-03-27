@@ -177,6 +177,14 @@
                 ]
               },
               {
+                "group": "面板工具",
+                "expanded": false,
+                "pages": [
+                  "faq/常見問題",
+                  "faq/回報問題方式"
+                ]
+              },
+              {
                 "group": "版本更新與管理",
                 "expanded": false,
                 "pages": [

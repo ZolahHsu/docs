@@ -201,6 +201,14 @@
                   "faq/回報問題方式"
                 ]
               },
+               {
+                "group": "test",
+                "expanded": false,
+                "pages": [
+                  "000/測試",
+                  "000/測試2"
+                ]
+              },
               {
                 "group": "授權與管理",
                 "expanded": false,

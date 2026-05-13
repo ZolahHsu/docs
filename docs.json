@@ -205,8 +205,8 @@
                 "group": "test",
                 "expanded": false,
                 "pages": [
-                  "000/測試",
-                  "000/測試2"
+                  "test/000/測試",
+                  "test/000/測試2"
                 ]
               },
               {
